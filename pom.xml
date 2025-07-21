@@ -60,6 +60,7 @@
             <scope>provided</scope>
         </dependency>
 
+        <!-- Optional, if you doesn't work with IDEA Swing forms -->
         <dependency>
             <groupId>com.jetbrains.intellij.java</groupId>
             <artifactId>java-gui-forms-rt</artifactId>
